@@ -71,7 +71,7 @@
     
     <!-- Elementos HEroku -->
     <build>
-        <finalName>indexRest</finalName>
+        <finalName>holaMundo</finalName>
         <plugins>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
